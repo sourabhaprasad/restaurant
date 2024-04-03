@@ -13,12 +13,23 @@ Check out the live preview [here!](https://sourabhaprasad.github.io/restaurant/)
 - Other: HTML, CSS, JavaScript (ES6+), Python
 
 
-## Getting Started 
-Choose one of the following options to get started:
+## Installation
 
-- Live at - [Link](https://sourabhaprasad.github.io/restaurant/)
-- Clone the repo: git clone https://github.com/sourabhaprasad/restaurant.git
-- Fork the repo.
+1. **Clone the Repository:** 
+   ```bash
+   git clone https://github.com/sourabhaprasad/restaurant.git
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd stacktech
+   ```
+
+3. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
+
 
 
 ## Video Preview
