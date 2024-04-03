@@ -1,3 +1,53 @@
+
+# The Svaadh
+This is a front-end application created using react.js. The project was created for a workshop-hackathon which bagged a second place.
+
+
+
+# Preview
+Check out the live preview [here!](https://sourabhaprasad.github.io/restaurant/)
+
+
+## Tech Stacks
+- Frontend: React.js with JSX
+- Other: HTML, CSS, JavaScript (ES6+), Python
+
+
+## Getting Started 
+Choose one of the following options to get started:
+
+- Live at - [Link](https://sourabhaprasad.github.io/restaurant/)
+- Clone the repo: git clone https://github.com/sourabhaprasad/restaurant.git
+- Fork the repo.
+
+
+## Video Preview
+A slight backened fucntionality can be seen in the local project, in the testimonials page.
+
+https://github.com/sourabhaprasad/restaurant/assets/70069572/972b69f4-d606-434d-9265-19ac49116900
+
+
+
+
+## Screenshot
+<p float="left">
+  <img src="https://github.com/sourabhaprasad/restaurant/assets/70069572/1e0cee37-21d9-4d07-bd14-602ce7d631ca" width="400" />
+  <img src="https://github.com/sourabhaprasad/restaurant/assets/70069572/7d3679a5-3ae1-462d-b6f6-2e69bfcf75f5" width="400" /> 
+</p>
+
+
+## Creater
+[The Svaadh](https://sourabhaprasad.github.io/restaurant/) was designed and coded primarily by me.
+
+
+
+
+
+
+
+
+
+<!--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +118,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
