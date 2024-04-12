@@ -41,10 +41,14 @@ https://github.com/sourabhaprasad/restaurant/assets/70069572/972b69f4-d606-434d-
 
 
 ## Screenshot
-<p float="left">
-  <img src="https://github.com/sourabhaprasad/restaurant/assets/70069572/1e0cee37-21d9-4d07-bd14-602ce7d631ca" width="400" />
-  <img src="https://github.com/sourabhaprasad/restaurant/assets/70069572/7d3679a5-3ae1-462d-b6f6-2e69bfcf75f5" width="400" /> 
+<p float="center">
+  <img src="https://github.com/sourabhaprasad/restaurant/assets/70069572/d43d414a-8698-4c65-b9bf-49720377e32f" width="400" />
 </p>
+
+<p>
+   <img src="https://github.com/sourabhaprasad/restaurant/assets/70069572/2f178a26-a356-4040-bd14-898f387d266b" width="400" /> 
+</p>
+
 
 
 ## Creater
